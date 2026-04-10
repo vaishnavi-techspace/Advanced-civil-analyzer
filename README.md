@@ -26,8 +26,6 @@ A GUI-based Civil Engineering Material Analysis System developed using Python an
 - Tkinter  
 
 ---
-## 📸 Screenshot
-![Project Screenshot](screenshot.png)
 
 ## ▶️ How to Run
 ```bash
